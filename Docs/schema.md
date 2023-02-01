@@ -32,7 +32,7 @@ Table members {
   address varchar(64)
   city varchar(32)
   region varchar(32)
-  postal_code char(12) [not null]
+  postal_code char(12)
   phone_number varchar(32) [not null]
 
 }
